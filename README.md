@@ -1,9 +1,9 @@
 <!-- HEADER -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:6e00ff&height=140&section=header&text=Clayton+Santos&fontSize=34&fontColor=c084fc&animation=twinkling&fontAlignY=38&desc=Flutter+%26+Java+Developer+%7C+ADS+%40+IFBA&descSize=16&descAlignY=58&descColor=a78bfa" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d0d0d,50:1a0533,100:6e00ff&amp;height=140&amp;section=header&amp;text=Clayton+Santos&amp;fontSize=34&amp;fontColor=c084fc&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=Flutter+%26+Java+Developer+%7C+ADS+%40+IFBA&amp;descSize=16&amp;descAlignY=58&amp;descColor=a78bfa" />
 
 <!-- INTRO TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=c084fc&size=26&center=true&vCenter=true&width=900&lines=Hey!+I'm+Clayton+Santos+%F0%9F%91%BE;Flutter+%26+Java+Spring+Boot+Developer;Working+as+Jr+Dev+since+Feb+2026;Anime+%26+Code+%E2%80%94+my+daily+fuel;Always+building%2C+always+evolving." />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=c084fc&amp;size=26&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Hey!+I'm+Clayton+Santos+%F0%9F%91%BE;Flutter+%26+Java+Spring+Boot+Developer;Working+as+Jr+Dev+since+Feb+2026;Anime+%26+Code+%E2%80%94+my+daily+fuel;Always+building%2C+always+evolving." />
 </p>
 
 ---
@@ -34,13 +34,18 @@
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <strong>🏢 Desenvolvedor Júnior</strong><br>
       <sub>fev/2026 – presente</sub><br><br>
       <sub>Atuando profissionalmente com Flutter e Java Spring Boot.</sub>
     </td>
-    <td align="center" width="50%">
-      <strong>🎓 SENAC — Técnico em Des. de Sistemas</strong><br>
+    <td align="center" width="33%">
+      <strong>🎓 IFBA — Análise e Des. de Sistemas</strong><br>
+      <sub>out/2025 – previsão 2028</sub><br><br>
+      <sub>Graduação em ADS no Campus Santo Antônio de Jesus.<br>Atualmente no 2º semestre.</sub>
+    </td>
+    <td align="center" width="33%">
+      <strong>📘 SENAC — Técnico em Des. de Sistemas</strong><br>
       <sub>out/2023 – abr/2025</sub><br><br>
       <sub>Formação técnica com projetos reais em equipe,<br>incluindo sistemas web e desktop.</sub>
     </td>
@@ -109,35 +114,35 @@
 
 <p align="center">
   <strong>Mobile & Frontend</strong><br><br>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&amp;logo=flutter&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&amp;logo=dart&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&amp;logo=sass&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" />
 </p>
 
 <p align="center">
   <strong>Backend & API</strong><br><br>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&amp;logo=springsecurity&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&amp;logo=jsonwebtokens&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&amp;logo=laravel&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&amp;logo=electron&amp;logoColor=white" />
 </p>
 
 <p align="center">
   <strong>Banco de Dados & Ferramentas</strong><br><br>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&amp;logo=mariadb&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
 </p>
 
 ---
@@ -145,12 +150,12 @@
 ## 📊 GITHUB STATS
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=notyalC0&show_icons=true&theme=midnight-purple&title_color=c084fc&icon_color=a78bfa&text_color=e9d5ff&bg_color=0d0d0d&border_color=6e00ff&border_radius=12" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notyalC0&layout=compact&theme=midnight-purple&title_color=c084fc&text_color=e9d5ff&bg_color=0d0d0d&border_color=6e00ff&border_radius=12" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=notyalC0&amp;show_icons=true&amp;theme=midnight-purple&amp;title_color=c084fc&amp;icon_color=a78bfa&amp;text_color=e9d5ff&amp;bg_color=0d0d0d&amp;border_color=6e00ff&amp;border_radius=12" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notyalC0&amp;layout=compact&amp;theme=midnight-purple&amp;title_color=c084fc&amp;text_color=e9d5ff&amp;bg_color=0d0d0d&amp;border_color=6e00ff&amp;border_radius=12" />
 </p>
 
 <p align="center">
-  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notyalC0&theme=midnight_purple"/>
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notyalC0&amp;theme=midnight_purple"/>
 </p>
 
 ---
@@ -159,17 +164,17 @@
 
 <p align="center">
   <a href="mailto:claytongamer228@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-claytongamer228@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-claytongamer228@gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
   </a>
   &nbsp;
   <a href="https://github.com/notyalC0">
-    <img src="https://img.shields.io/badge/GitHub-notyalC0-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-notyalC0-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=notyalC0&color=6e00ff&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=notyalC0&amp;color=6e00ff&amp;style=for-the-badge&amp;label=PROFILE+VIEWS" />
 </p>
 
 <!-- FOOTER -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:6e00ff,50:1a0533,100:0d0d0d&height=120&section=footer&text=Keep+Coding+%F0%9F%91%BE&fontSize=20&fontColor=c084fc&fontAlignY=65" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6e00ff,50:1a0533,100:0d0d0d&amp;height=120&amp;section=footer&amp;text=Keep+Coding+%F0%9F%91%BE&amp;fontSize=20&amp;fontColor=c084fc&amp;fontAlignY=65" />
