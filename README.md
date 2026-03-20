@@ -17,7 +17,7 @@
 <br>
 
 <p align="center">
-  Sou desenvolvedor <strong>Flutter & Java Spring Boot</strong>, atualmente atuando profissionalmente como <strong>Dev Júnior</strong> desde fevereiro de 2026.<br><br>
+  Sou desenvolvedor <strong>Flutter &amp; Java Spring Boot</strong>, atualmente atuando profissionalmente como <strong>Dev Júnior</strong> desde fevereiro de 2026.<br><br>
   Técnico em Desenvolvimento de Sistemas pelo <strong>SENAC</strong> (out/2023 – abr/2025),<br>
   atualmente no <strong>2º semestre de Análise e Desenvolvimento de Sistemas no IFBA</strong> (início: out/2025 · conclusão prevista: 2028).<br><br>
   Construo aplicações mobile com <strong>Flutter + SQLite/Riverpod</strong> e APIs REST com <strong>Java Spring Boot + MySQL + JWT</strong>.<br>
@@ -113,7 +113,7 @@
 ## 🛠 HARD SKILLS
 
 <p align="center">
-  <strong>Mobile & Frontend</strong><br><br>
+  <strong>Mobile &amp; Frontend</strong><br><br>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&amp;logo=flutter&amp;logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&amp;logo=dart&amp;logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" />
@@ -125,7 +125,7 @@
 </p>
 
 <p align="center">
-  <strong>Backend & API</strong><br><br>
+  <strong>Backend &amp; API</strong><br><br>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&amp;logo=springsecurity&amp;logoColor=white" />
@@ -137,7 +137,7 @@
 </p>
 
 <p align="center">
-  <strong>Banco de Dados & Ferramentas</strong><br><br>
+  <strong>Banco de Dados &amp; Ferramentas</strong><br><br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&amp;logo=mariadb&amp;logoColor=white" />
